@@ -9,6 +9,7 @@ Given an array of integers, return indices of the two numbers such that they add
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 Example:
+
 ![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/twoSum.png "question1")
 
 # Add Two Number
@@ -20,3 +21,11 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 Example:
 
 ![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/addTwoNumber.png "question2")
+
+# Longest Substring Without Repeating Characters
+
+Given a string, find the length of the longest substring without repeating characters.
+
+Example:
+
+![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/LongestSubstring%20WithoutRepeatingCharacters.png "question3")
