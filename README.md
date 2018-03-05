@@ -29,3 +29,9 @@ Given a string, find the length of the longest substring without repeating chara
 Example:
 
 ![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/LongestSubstring%20WithoutRepeatingCharacters.png "question3")
+
+# Reverse Integer
+
+Given a 32-bit signed integer, reverse digits of an integer.
+
+![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/ReverseInteger.png "question4")
