@@ -35,3 +35,11 @@ Example:
 Given a 32-bit signed integer, reverse digits of an integer.
 
 ![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/ReverseInteger.png "question4")
+
+# Sqrt(int x)
+
+Implement int sqrt(int x).
+Compute and return the square root of x.
+x is guaranteed to be a non-negative integer.
+
+![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/sqrt(int%20x).png "question5")
