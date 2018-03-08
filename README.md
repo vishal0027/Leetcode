@@ -53,8 +53,11 @@ For example, the 32-bit integer ’11' has binary representation 000000000000000
 Credits:
 Special thanks to @ts for adding this problem and creating all test cases.
 
+# Longest Palindromic Substring
 
+Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
 
+![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/LongestPalindromicSubstring.png "question6")
 
 # Leet Code
 The source of these question is Leetcode. 
