@@ -88,6 +88,12 @@ Do not allocate extra space for another array, you must do this by modifying the
 
 ![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/RemoveDuplicatesfromSortedArray.png "question8")
 
+# Pow(x, n)
+
+Implement pow(x, n).
+
+![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/Pow(x%2Cn).png "question9")
+
 # Leet Code
 The source of these question is Leetcode. 
 visit (https://leetcode.com/problemset/all/)
