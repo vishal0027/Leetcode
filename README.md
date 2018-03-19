@@ -80,7 +80,13 @@ If the first sequence of non-whitespace characters in str is not a valid integra
 
 If no valid conversion could be performed, a zero value is returned. If the correct value is out of the range of representable values, INT_MAX (2147483647) or INT_MIN (-2147483648) is returned.
 
+# Remove Duplicates from Sorted Array
 
+Given a sorted array, remove the duplicates in-place such that each element appear only once and return the new length.
+
+Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+
+![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/RemoveDuplicatesfromSortedArray.png "question8")
 
 # Leet Code
 The source of these question is Leetcode. 
