@@ -100,6 +100,17 @@ Given n non-negative integers a1, a2, ..., an, where each represents a point at 
 
 Note: You may not slant the container and n is at least 2.
 
+# Rotate Image
+
+You are given an n x n 2D matrix representing an image.
+
+Rotate the image by 90 degrees (clockwise).
+
+Note:
+You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
+
+![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/RotateImage.png "question11")
+
 # Leet Code
 The source of these question is Leetcode. 
 visit (https://leetcode.com/problemset/all/)
