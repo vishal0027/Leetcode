@@ -126,6 +126,26 @@ You could also try reversing an integer. However, if you have solved the problem
 
 There is a more generic way of solving this problem.
 
+# Target Sum
+
+Given an array of integers, return whether there are two numbers such that they add up to a specific target.
+The input is not a Sorted List.
+
+# Repeated Sub String
+
+Given two strings A and B, find the minimum number of times A has to be repeated such that B is a substring of it. If no such solution, return -1.
+
+For example, with A = "abcd" and B = "cdabcdab".
+
+Return 3, because by repeating A three times (“abcdabcdabcd”), B is a substring of it; and B is not a substring of A repeated two times ("abcdabcd").
+
+Note:
+The length of A and B will be between 1 and 10000.
+
+# License Key
+
+
+
 # Leet Code
 The source of these question is Leetcode. 
 visit (https://leetcode.com/problemset/all/)
