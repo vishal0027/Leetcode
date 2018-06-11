@@ -146,6 +146,11 @@ The length of A and B will be between 1 and 10000.
 
 ![alt tag](https://github.com/vishal0027/Leetcode/blob/master/img/IMG_1156.PNG "Question15")
 
+# Find Duplicate In Contant Space And Linear Complexity
+Given an array of n elements which contains elements from 0 to n-1, with any of these numbers appearing any number of times. Find these repeating numbers in O(n) and using only constant memory space.
+
+###### For example, let n be 7 and array be {1, 2, 3, 1, 3, 6, 6}, the answer should be 1, 3 and 6.
+
 # Leet Code
 The source of these question is Leetcode. 
 visit (https://leetcode.com/problemset/all/)
